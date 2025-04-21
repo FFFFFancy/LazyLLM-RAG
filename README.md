@@ -1,1 +1,1 @@
-![alt text](result.png)
+Using this code, you can use RAG, include Retriever and OnlineChatModule.
